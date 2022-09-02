@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Haruka-Md/blob/v1/media/Haruka.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/Z4F4R3L/Haruka-Md/blob/v6/media/Z4.png" alt="ALPHA BOT" width="100"/>
 
 
 </p>
