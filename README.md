@@ -10,7 +10,7 @@
 <a href="https://github.com/zeeone-ofc/Haruka-Md"><img title="Owner" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
+<a href="https://github.com/Z4F4R3L/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeone-ofc/Haruka-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/Haruka-Md?color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeone-ofc/Haruka-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/Haruka-Md?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeone-ofc/Haruka-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Haruka-Md?label=Watchers&color=blue&style=flat-square"></a>
