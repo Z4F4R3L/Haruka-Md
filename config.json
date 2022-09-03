@@ -10,10 +10,10 @@
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
     "autobio": false,
-    "anticall": true,
+    "anticall": false,
     "autorespond": false,
     "autoblok212": true,
-    "autoread": true,
+    "autoread": false,
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
