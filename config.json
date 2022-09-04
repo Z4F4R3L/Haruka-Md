@@ -10,7 +10,7 @@
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
     "autobio": false,
-    "anticall": true,
+    "anticall": false,
     "autorespond": false,
     "autoblok212": true,
     "autoread": false,
